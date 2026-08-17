@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nishant Tyagi
 
-### 📊 Data Analytics Intern | CSE Student | Aspiring Data Analyst
+### 📊 Data Analytics Intern At OASIS INFOBYTE | CSE Student | Aspiring Data Analyst
 
 Welcome to my GitHub profile! 👋
 
