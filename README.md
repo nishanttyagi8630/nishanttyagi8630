@@ -74,9 +74,7 @@ An interactive Excel-based data analytics dashboard designed to analyze road acc
 
 ### 📊 Dashboard Preview
 
-### 📊 Dashboard Preview
-
-![Road Accident Analysis Dashboard](https://raw.githubusercontent.com/nishanttyagi8630/Road-Accident-Analysis-Dashboard/main/road-accident-dashboard.jpeg)
+[![Road Accident Analysis Dashboard](https://raw.githubusercontent.com/nishanttyagi8630/Road-Accident-Analysis-Dashboard/main/road-accident-dashboard.jpeg)](https://github.com/nishanttyagi8630/Road-Accident-Analysis-Dashboard)
 
 ### 🔍 Key Analysis
 
