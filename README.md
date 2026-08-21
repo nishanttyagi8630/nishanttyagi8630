@@ -93,26 +93,6 @@ An interactive Excel-based data analytics dashboard designed to analyze road acc
 
 # 🚀 Featured Projects
 
-## 🎯 PlaceMate — Placement Preparation Platform
-
-A placement preparation platform designed to help students prepare for their career journey.
-
-### ✨ Features
-
-- 🧠 Aptitude Questions
-- 💻 Coding Questions
-- 👔 HR Questions
-- 🎤 Mock Interview
-- 📄 Resume Tips
-- 📊 Progress Tracking
-- 🔐 User Authentication
-
-### 🛠️ Tech Used
-
-`Python` `Streamlit` `SQLite`
-
----
-
 ## 🏥 Hospital Management System
 
 A web-based system designed to manage hospital-related information and simplify basic healthcare administration.
@@ -120,16 +100,6 @@ A web-based system designed to manage hospital-related information and simplify 
 ### 🛠️ Tech Used
 
 `Python` `SQL` `HTML` `CSS` `JavaScript`
-
----
-
-## 💰 Expense Tracker
-
-A simple application for tracking daily expenses, categories and spending patterns.
-
-### 🛠️ Tech Used
-
-`Python` `SQLite` `Streamlit`
 
 ---
 
