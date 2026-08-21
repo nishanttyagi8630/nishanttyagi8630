@@ -70,54 +70,26 @@ I enjoy transforming raw data into meaningful insights, building practical proje
 
 ## 🚨 Road Accident Analysis Dashboard
 
-An interactive data analytics dashboard created to analyze road accident data and identify important patterns and insights.
+An interactive Excel-based data analytics dashboard designed to analyze road accident casualties, severity, vehicle types, road conditions, environmental factors, and accident trends.
+
+### 📊 Dashboard Preview
+
+[![Road Accident Analysis Dashboard](https://raw.githubusercontent.com/nishanttyagi8630/Road-Accident-Analysis-Dashboard/main/road-accident-dashboard.jpeg)](https://github.com/nishanttyagi8630/Road-Accident-Analysis-Dashboard)
 
 ### 🔍 Key Analysis
 
 - 🚗 Accident trends
-- 📅 Year/Month-wise accident analysis
-- 📍 Location-based analysis
-- 👥 Casualty analysis
+- 📅 Monthly casualty trends
 - ⚠️ Accident severity
-- 🌦️ Weather-related patterns
-- 🛣️ Road condition analysis
-- 📊 Interactive visualizations
+- 🚘 Casualties by vehicle type
+- 🛣️ Road surface analysis
+- 🏙️ Rural vs Urban analysis
+- 💡 Light condition analysis
+- 🌦️ Weather & wind condition analysis
 
 ### 🛠️ Tech Used
 
-`Python` `Pandas` `Matplotlib` `Power BI` `Data Visualization`
-
----
-
-## 📈 Sales Data Analysis
-
-Analyzed sales data to identify trends, top-performing products, revenue patterns and important business insights.
-
-### 🛠️ Tech Used
-
-`Python` `Pandas` `NumPy` `Matplotlib`
-
----
-
-## 📊 Excel Data Analysis Dashboard
-
-Created an interactive Excel dashboard to analyze business data and visualize important KPIs.
-
-### 🛠️ Tech Used
-
-`Microsoft Excel` `Pivot Tables` `Charts` `Data Cleaning`
-
----
-
-## 📉 Data Analysis with Python
-
-Performed data cleaning, exploratory data analysis and visualization using Python libraries.
-
-### 🛠️ Tech Used
-
-`Python` `Pandas` `NumPy` `Matplotlib`
-
----
+`Microsoft Excel` `Pivot Tables` `Pivot Charts` `Data Cleaning` `Data Visualization` `Interactive Dashboard`
 
 # 🚀 Featured Projects
 
