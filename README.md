@@ -83,25 +83,25 @@ An interactive Excel-based data analytics dashboard designed to analyze road acc
 - 🏙️ Rural vs Urban analysis
 - 💡 Light condition analysis
 - 🌦️ Weather & wind condition analysis
-
-### 🏥 Hospital Emergency Room Dashboard
+  
+## 🏥 Hospital Emergency Room Dashboard
 
 An interactive Microsoft Excel-based data analytics dashboard designed to analyze hospital emergency room performance, patient visits, waiting times, demographics, referrals, admissions, and patient satisfaction.
 
-#### 📊 Dashboard Preview
+### 📊 Dashboard Preview
 
-https://github.com/nishanttyagi8630/Hospital-Emergency-Room-Dashboard
+![Hospital Emergency Room Dashboard](Dashboard/Hospital-Emergency-Room-Dashboard.png)
 
-#### 🔍 Key Analysis
+### 🔍 Key Analysis
 
-- 👥 Patient visit and admission analysis
+- 🏥 Patient visits and monthly trends
 - ⏱️ Average waiting time analysis
+- 👥 Patient demographics
+- 📋 Referral and admission analysis
 - 😊 Patient satisfaction analysis
-- 📅 Monthly patient visit trends
-- 🧑‍⚕️ Patient demographics analysis
-- 🏥 Referral and admission analysis
-- 🚨 Emergency room performance analysis
-- 📊 Delay vs On-Time patient analysis
+- 🚨 Emergency room performance
+- 📊 Patient status and attendance analysis
+- 📅 Monthly and yearly performance trends
 
 
 ### 🛠️ Tech Used
