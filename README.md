@@ -1,15 +1,13 @@
 # 👋 Hi there, I'm Nishant Tyagi
 
-### 📊 Data Analytics Intern At OASIS INFOBYTE & CODE ALPHA | CSE Student | Aspiring Data Analyst
+### 📊 Data Analytics Intern At Veda Technology | CSE Student | Aspiring Data Analyst
 
 Welcome to my GitHub profile! 👋
 
-I'm a Computer Science Engineering student passionate about **Data Analytics, Python, SQL, Power BI, Excel, and Problem Solving**.
+🚀 Currently working as a Data Analytics Intern at Veda Technology, while continuously building practical projects and strengthening my analytical skills.
 
-I enjoy transforming raw data into meaningful insights, building practical projects, creating dashboards, and continuously learning new technologies.
-
-🚀 Currently exploring opportunities in **Data Analytics & Technology**
-
+🏆 Previously completed Data Analytics internships at OASIS Infobyte and CodeAlpha, gaining hands-on experience in data analysis, 
+   data cleaning, EDA, visualization, and Python.
 ---
 
 ## 👋 About Me
@@ -22,8 +20,7 @@ I enjoy transforming raw data into meaningful insights, building practical proje
 - 📑 Building analytical solutions using Excel
 - 💡 Interested in AI & Generative AI
 - 🚀 Building real-world projects to improve my skills
-- 🤝 Open to internships, projects and collaborations
-
+- 🎯 Open to Data Analytics projects, collaborations, and career opportunities
 ---
 
 ## 💻 Skills
