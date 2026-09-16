@@ -90,7 +90,7 @@ An interactive Microsoft Excel-based data analytics dashboard designed to analyz
 
 ### 📊 Dashboard Preview
 
-[![Hospital Emergency Room Dashboard]](https://github.com/nishanttyagi8630/Hospital-Emergency-Room-Dashboard)
+![Hospital Emergency Room Dashboard](https://github.com/nishanttyagi8630/Hospital-Emergency-Room-Dashboard)
 
 ### 🔍 Key Analysis
 
